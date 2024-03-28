@@ -20,9 +20,13 @@ You can find the official published results here:
 https://survey.stackoverflow.co/2023/
 
 ![Screenshot (148)](https://github.com/SurajS0925/Salary_Prediction/assets/107171321/ba0df327-d893-43ca-9dfe-16833e5317e0)
+
+![Screenshot (150)](https://github.com/SurajS0925/Salary_Prediction/assets/107171321/5bae3b9a-09da-4c1a-96a0-cd638cacca8e)
+
 ![Screenshot (151)](https://github.com/SurajS0925/Salary_Prediction/assets/107171321/c72dadf8-9f1c-48bb-babd-3ad0f12e6389)
-![Screenshot (151)](https://github.com/SurajS0925/Salary_Prediction/assets/107171321/987077c8-97d3-4efd-a19f-95a7608e54dc)
+
 ![Screenshot (152)](https://github.com/SurajS0925/Salary_Prediction/assets/107171321/ec1b9d66-8aa0-409f-9840-a743ba380c35)
+
 ![Screenshot (153)](https://github.com/SurajS0925/Salary_Prediction/assets/107171321/28d05870-f5bf-48d2-bb50-e6d0657b3a76)
 
 **Requirements
