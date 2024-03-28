@@ -29,7 +29,8 @@ https://survey.stackoverflow.co/2023/
 
 ![Screenshot (153)](https://github.com/SurajS0925/Salary_Prediction/assets/107171321/28d05870-f5bf-48d2-bb50-e6d0657b3a76)
 
-**Requirements
+#Requirements
+
 Python 3.x
 pandas
 NumPy
